@@ -1,4 +1,4 @@
-from turtle_draw import draw_retangle,draw_children
+from md_to_mind.turtle_draw import draw_retangle,draw_children
 import turtle
 from PIL import Image
 def read_markdown(file_path):
