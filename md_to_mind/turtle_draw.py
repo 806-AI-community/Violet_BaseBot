@@ -1,6 +1,6 @@
 from turtle import *
 import turtle
-from bezier import draw_connection
+from md_to_mind.bezier import draw_connection
 import math
 """ 
 假设一级有两个
