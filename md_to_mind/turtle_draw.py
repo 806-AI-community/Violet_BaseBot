@@ -99,5 +99,5 @@ def draw_children(parent_x,parent_y,children):
     draw_line(parent_x,parent_y,children_num,children_info)
 
 
-
+import turtle
 
